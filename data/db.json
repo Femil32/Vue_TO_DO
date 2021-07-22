@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new home page banner",
+      "details": "Lorem ispum for First",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email 111d",
+      "details": "Lorem ispum for Second 112d",
+      "complete": false
+    },
+    {
+      "title": "Make a new website",
+      "details": "BLAH blah",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Make a blog",
+      "details": "em Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release\n",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "vb",
+      "details": "fbfbfbfb",
+      "complete": true,
+      "id": 6
+    },
+    {
+      "title": "qsqsq",
+      "details": "sqsqsqsq",
+      "complete": false,
+      "id": 7
+    }
+  ]
+}
